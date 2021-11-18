@@ -3,7 +3,7 @@
 #### Aprendo programação a cerca de 2 anos, depois do meu primeiro escreva("Olá mundo") nunca mais parei.
 #### Tenho uma base sólida em HTML e CSS aprendendo sempre e cada vez mais sobre JavaScript. 
 #### Gosto de desenvolver usando ReactJs e brevemente React Native para Mobile, estou iniciando meu portifolio agora e organizando projetos pessoais, mas pode me mandar um desafio e mostrarei do que sou capaz.
-#### Estou em busca de uma oportunidade melhor, e não medirei esforços para conseguir, então você que esta lendo, mande um teste e eu agarrarei a está oportunidade!
+#### Sempre em busca de novas oportunidades !
 <br/>
 <div>
   <a href="https://github.com/Theus-Gui-Developer">
@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theus-Gui-Developer&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
- <div><br>
+ <div>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
