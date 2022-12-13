@@ -1,9 +1,4 @@
 # Prazer, Matheus Guilherme
-
-#### Aprendo programação a cerca de 2 anos, depois do meu primeiro escreva("Olá mundo") nunca mais parei.
-#### Tenho uma base sólida em HTML e CSS aprendendo sempre e cada vez mais sobre JavaScript. 
-#### Gosto de desenvolver usando ReactJs e brevemente React Native para Mobile, estou iniciando meu portifolio agora e organizando projetos pessoais, mas pode me mandar um desafio e mostrarei do que sou capaz.
-#### Sempre em busca de novas oportunidades !
 <br/>
 <div>
   <a href="https://github.com/Theus-Gui-Developer">
