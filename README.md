@@ -1,21 +1,14 @@
 # Prazer, Matheus Guilherme
 <br/>
-<div>
-  <a href="https://github.com/Theus-Gui-Developer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Theus-Gui-Developer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theus-Gui-Developer&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-  <br/>
- <div>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div>
-  <br />
+<p>
+  Sou um desenvolvedor full-stack com experiência em React, Next.js, Express, Node.js, Nest.js, PHP, HTML, CSS, MySQL, MongoDB, Docker e Git. 
+</p>
+<p>
+Tenho habilidades na criação de estrutura de backend arquitetura hexagonal, integração com gateways de pagamento, testes unitários, manutenção de componentes, criação de novos componentes e manutenção de estrutura de dados. Com experiência em projetos presenciais e remotos, busco trabalhar em equipes multidisciplinares e desenvolver soluções inovadoras e escaláveis. 
+</p>
+<p>
+Além disso, sou uma pessoa dinâmica e gosto de aprender novas tecnologias, além de enfrentar novos desafios. Em meu tempo livre, gosto de ir ao cinema, jogar vídeo game e ler livros relacionados a programção.
+</p>
 <div> 
   <a href="https://www.instagram.com/matheuslima3732" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
