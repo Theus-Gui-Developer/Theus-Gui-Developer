@@ -1,14 +1,17 @@
-# Prazer, Matheus Guilherme
+# Hi! my name is Matheus Guilherme
 <br/>
 <p>
-  Sou um desenvolvedor full-stack com experiência em React, Next.js, Express, Node.js, Nest.js, PHP, HTML, CSS, MySQL, MongoDB, Docker e Git. 
+  I am a full-stack developer with experience in React, Next.js, Express, Node.js, Nest.js, PHP, HTML, CSS, MySQL, MongoDB, Docker, and Git.
 </p>
+
 <p>
-Tenho habilidades na criação de estrutura de backend arquitetura hexagonal, integração com gateways de pagamento, testes unitários, manutenção de componentes, criação de novos componentes e manutenção de estrutura de dados. Com experiência em projetos presenciais e remotos, busco trabalhar em equipes multidisciplinares e desenvolver soluções inovadoras e escaláveis. 
+  I have skills in creating backend structure, hexagonal architecture, integrating with payment gateways, unit testing, maintaining components, creating new components, and maintaining data structure. With experience in both in-person and remote projects, I strive to work in multidisciplinary teams and develop innovative and scalable solutions.
 </p>
+
 <p>
-Além disso, sou uma pessoa dinâmica e gosto de aprender novas tecnologias, além de enfrentar novos desafios. Em meu tempo livre, gosto de ir ao cinema, jogar vídeo game e ler livros relacionados a programção.
+  Furthermore, I am a dynamic person who enjoys learning new technologies and taking on new challenges. In my free time, I enjoy going to the cinema, playing video       games, and reading programming-related books.
 </p>
+
 <div> 
   <a href="https://www.instagram.com/matheuslima3732" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
