@@ -84,12 +84,11 @@
 
 ###
 
-<h2 align="left">Building things that (usually) work</h2>
-
-###
-
 <div align="center">
   <img height="200" src="https://i.imgur.com/dtVeyP5.gif"  />
 </div>
+
+###
+<h2 align="center">Building things that (usually) work</h2>
 
 ###
